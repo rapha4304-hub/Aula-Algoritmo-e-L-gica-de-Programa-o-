@@ -3,5 +3,5 @@
 
 contador = 1
 while contador <= 10:
-    print(contador)
+    print(contador * 2)
     contador += 1
