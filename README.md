@@ -1,1 +1,7 @@
-# Aula-Algoritmo-e-L-gica-de-Programa-o-
+# Dicionários
+# --> chave/valor
+# --> Mutaveis
+# --> Ordenados
+# --> Indexados pela chave
+
+aluno = {"Nome": }
